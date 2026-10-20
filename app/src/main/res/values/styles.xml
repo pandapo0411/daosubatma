@@ -1,0 +1,16 @@
+<resources>
+    <style name="Theme.DaoSuBatMa" parent="android:style/Theme.Material.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowActionModeOverlay">true</item>
+        <item name="android:colorAccent">#F5C451</item>
+        <item name="android:navigationBarColor">#080B16</item>
+        <item name="android:statusBarColor">#080B16</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+    <style name="Theme.DaoSuBatMa.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/splash_background</item>
+        <item name="windowSplashScreenAnimatedIcon">@mipmap/ic_launcher</item>
+        <item name="postSplashScreenTheme">@style/Theme.DaoSuBatMa</item>
+    </style>
+</resources>

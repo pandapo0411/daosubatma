@@ -1,0 +1,974 @@
+[
+ {
+  "stt": 1,
+  "id": "ma_doi_common",
+  "gid": "ma_doi",
+  "rarity": "common",
+  "rarity_vi": "Phổ thông",
+  "vi": "Ma Đói Vất Vưởng",
+  "en": "Vagrant Hunger Ghost"
+ },
+ {
+  "stt": 2,
+  "id": "ma_doi_rare",
+  "gid": "ma_doi",
+  "rarity": "rare",
+  "rarity_vi": "Hiếm",
+  "vi": "Ngạ Quỷ Đói Khát",
+  "en": "Starving Preta"
+ },
+ {
+  "stt": 3,
+  "id": "ma_doi_epic",
+  "gid": "ma_doi",
+  "rarity": "epic",
+  "rarity_vi": "Sử thi",
+  "vi": "Quỷ Đói Ngàn Năm",
+  "en": "Millennium Famine Fiend"
+ },
+ {
+  "stt": 4,
+  "id": "ma_doi_legendary",
+  "gid": "ma_doi",
+  "rarity": "legendary",
+  "rarity_vi": "Huyền thoại",
+  "vi": "Thao Thiết Quỷ Vương",
+  "en": "Taotie, Glutton King"
+ },
+ {
+  "stt": 5,
+  "id": "ma_da_common",
+  "gid": "ma_da",
+  "rarity": "common",
+  "rarity_vi": "Phổ thông",
+  "vi": "Ma Da Kéo Chân",
+  "en": "Ankle-Puller of the Deep"
+ },
+ {
+  "stt": 6,
+  "id": "ma_da_rare",
+  "gid": "ma_da",
+  "rarity": "rare",
+  "rarity_vi": "Hiếm",
+  "vi": "Thủy Quỷ Rêu Xanh",
+  "en": "Mossback Water Demon"
+ },
+ {
+  "stt": 7,
+  "id": "ma_da_epic",
+  "gid": "ma_da",
+  "rarity": "epic",
+  "rarity_vi": "Sử thi",
+  "vi": "Oán Hồn Sông Sâu",
+  "en": "Grudge of the Deep River"
+ },
+ {
+  "stt": 8,
+  "id": "ma_da_legendary",
+  "gid": "ma_da",
+  "rarity": "legendary",
+  "rarity_vi": "Huyền thoại",
+  "vi": "Thủy Mẫu Tinh",
+  "en": "Tide Mother"
+ },
+ {
+  "stt": 9,
+  "id": "cuong_thi_common",
+  "gid": "cuong_thi",
+  "rarity": "common",
+  "rarity_vi": "Phổ thông",
+  "vi": "Cương Thi Lò Cò",
+  "en": "Hopping Jiangshi"
+ },
+ {
+  "stt": 10,
+  "id": "cuong_thi_rare",
+  "gid": "cuong_thi",
+  "rarity": "rare",
+  "rarity_vi": "Hiếm",
+  "vi": "Cương Thi Giáp Sĩ",
+  "en": "Armored Jiangshi"
+ },
+ {
+  "stt": 11,
+  "id": "cuong_thi_epic",
+  "gid": "cuong_thi",
+  "rarity": "epic",
+  "rarity_vi": "Sử thi",
+  "vi": "Cương Thi Tướng Quân",
+  "en": "Jiangshi General"
+ },
+ {
+  "stt": 12,
+  "id": "cuong_thi_legendary",
+  "gid": "cuong_thi",
+  "rarity": "legendary",
+  "rarity_vi": "Huyền thoại",
+  "vi": "Cương Thi Vương",
+  "en": "Jiangshi King"
+ },
+ {
+  "stt": 13,
+  "id": "ma_lai_common",
+  "gid": "ma_lai",
+  "rarity": "common",
+  "rarity_vi": "Phổ thông",
+  "vi": "Ma Lai Rút Ruột",
+  "en": "Gut-Trailing Penanggalan"
+ },
+ {
+  "stt": 14,
+  "id": "ma_lai_rare",
+  "gid": "ma_lai",
+  "rarity": "rare",
+  "rarity_vi": "Hiếm",
+  "vi": "Dạ Ma Phi Đầu",
+  "en": "Night-Flying Head"
+ },
+ {
+  "stt": 15,
+  "id": "ma_lai_epic",
+  "gid": "ma_lai",
+  "rarity": "epic",
+  "rarity_vi": "Sử thi",
+  "vi": "Phi Đầu Huyết Ma",
+  "en": "Bloodmoon Flying Head"
+ },
+ {
+  "stt": 16,
+  "id": "ma_lai_legendary",
+  "gid": "ma_lai",
+  "rarity": "legendary",
+  "rarity_vi": "Huyền thoại",
+  "vi": "Cửu Âm Ma Hậu",
+  "en": "Nine-Yin Demoness"
+ },
+ {
+  "stt": 17,
+  "id": "ho_ly_common",
+  "gid": "ho_ly",
+  "rarity": "common",
+  "rarity_vi": "Phổ thông",
+  "vi": "Hồ Ly Một Đuôi",
+  "en": "One-Tailed Fox"
+ },
+ {
+  "stt": 18,
+  "id": "ho_ly_rare",
+  "gid": "ho_ly",
+  "rarity": "rare",
+  "rarity_vi": "Hiếm",
+  "vi": "Hồ Ly Tam Vĩ",
+  "en": "Three-Tailed Fox"
+ },
+ {
+  "stt": 19,
+  "id": "ho_ly_epic",
+  "gid": "ho_ly",
+  "rarity": "epic",
+  "rarity_vi": "Sử thi",
+  "vi": "Hồ Ly Cửu Vĩ",
+  "en": "Nine-Tailed Fox"
+ },
+ {
+  "stt": 20,
+  "id": "ho_ly_legendary",
+  "gid": "ho_ly",
+  "rarity": "legendary",
+  "rarity_vi": "Huyền thoại",
+  "vi": "Cửu Vĩ Thiên Hồ",
+  "en": "Celestial Nine-Tailed Fox"
+ },
+ {
+  "stt": 21,
+  "id": "quy_vuong_common",
+  "gid": "quy_vuong",
+  "rarity": "common",
+  "rarity_vi": "Phổ thông",
+  "vi": "Dạ Xoa Tuần Dạ",
+  "en": "Night-Patrol Yaksha"
+ },
+ {
+  "stt": 22,
+  "id": "quy_vuong_rare",
+  "gid": "quy_vuong",
+  "rarity": "rare",
+  "rarity_vi": "Hiếm",
+  "vi": "Dạ Xoa Chiến Tướng",
+  "en": "Yaksha Warlord"
+ },
+ {
+  "stt": 23,
+  "id": "quy_vuong_epic",
+  "gid": "quy_vuong",
+  "rarity": "epic",
+  "rarity_vi": "Sử thi",
+  "vi": "Quỷ Vương Dạ Xoa",
+  "en": "Yaksha Demon King"
+ },
+ {
+  "stt": 24,
+  "id": "quy_vuong_legendary",
+  "gid": "quy_vuong",
+  "rarity": "legendary",
+  "rarity_vi": "Huyền thoại",
+  "vi": "Đại Ma Vương Dạ Xoa",
+  "en": "Grand Yaksha Overlord"
+ },
+ {
+  "stt": 25,
+  "id": "bong_de_common",
+  "gid": "bong_de",
+  "rarity": "common",
+  "rarity_vi": "Phổ thông",
+  "vi": "Bóng Đè Nặng Trịch",
+  "en": "The Heavy Presser"
+ },
+ {
+  "stt": 26,
+  "id": "bong_de_rare",
+  "gid": "bong_de",
+  "rarity": "rare",
+  "rarity_vi": "Hiếm",
+  "vi": "Ám Ma Đè Ngực",
+  "en": "Chest-Crushing Shade"
+ },
+ {
+  "stt": 27,
+  "id": "bong_de_epic",
+  "gid": "bong_de",
+  "rarity": "epic",
+  "rarity_vi": "Sử thi",
+  "vi": "Mộng Yểm Quỷ",
+  "en": "Nightmare Fiend"
+ },
+ {
+  "stt": 28,
+  "id": "bong_de_legendary",
+  "gid": "bong_de",
+  "rarity": "legendary",
+  "rarity_vi": "Huyền thoại",
+  "vi": "Đại Mộng Ma Quân",
+  "en": "Grand Nightmare Sovereign"
+ },
+ {
+  "stt": 29,
+  "id": "ma_xo_common",
+  "gid": "ma_xo",
+  "rarity": "common",
+  "rarity_vi": "Phổ thông",
+  "vi": "Ma Xó Giữ Nhà",
+  "en": "Hearthkeeper Imp"
+ },
+ {
+  "stt": 30,
+  "id": "ma_xo_rare",
+  "gid": "ma_xo",
+  "rarity": "rare",
+  "rarity_vi": "Hiếm",
+  "vi": "Hộ Gia Tiểu Quỷ",
+  "en": "Homestead Guardian"
+ },
+ {
+  "stt": 31,
+  "id": "ma_xo_epic",
+  "gid": "ma_xo",
+  "rarity": "epic",
+  "rarity_vi": "Sử thi",
+  "vi": "Trấn Trạch Linh",
+  "en": "Abode-Warding Spirit"
+ },
+ {
+  "stt": 32,
+  "id": "ma_xo_legendary",
+  "gid": "ma_xo",
+  "rarity": "legendary",
+  "rarity_vi": "Huyền thoại",
+  "vi": "Thần Giữ Của",
+  "en": "Vaultkeeper God"
+ },
+ {
+  "stt": 33,
+  "id": "vong_nhi_common",
+  "gid": "vong_nhi",
+  "rarity": "common",
+  "rarity_vi": "Phổ thông",
+  "vi": "Vong Nhi Khóc Đêm",
+  "en": "Night-Weeping Infant"
+ },
+ {
+  "stt": 34,
+  "id": "vong_nhi_rare",
+  "gid": "vong_nhi",
+  "rarity": "rare",
+  "rarity_vi": "Hiếm",
+  "vi": "Tiểu Quỷ Ú Òa",
+  "en": "Peekaboo Poltergeist"
+ },
+ {
+  "stt": 35,
+  "id": "vong_nhi_epic",
+  "gid": "vong_nhi",
+  "rarity": "epic",
+  "rarity_vi": "Sử thi",
+  "vi": "Oán Nhi Bạch Y",
+  "en": "White-Clad Grudge Child"
+ },
+ {
+  "stt": 36,
+  "id": "vong_nhi_legendary",
+  "gid": "vong_nhi",
+  "rarity": "legendary",
+  "rarity_vi": "Huyền thoại",
+  "vi": "Anh Linh Cửu U",
+  "en": "Infant Soul of the Nine Hells"
+ },
+ {
+  "stt": 37,
+  "id": "bach_cot_common",
+  "gid": "bach_cot",
+  "rarity": "common",
+  "rarity_vi": "Phổ thông",
+  "vi": "Bạch Cốt Lẫn Khuất",
+  "en": "Lurking White Bones"
+ },
+ {
+  "stt": 38,
+  "id": "bach_cot_rare",
+  "gid": "bach_cot",
+  "rarity": "rare",
+  "rarity_vi": "Hiếm",
+  "vi": "Khô Lâu Dạ Hành",
+  "en": "Night-Walking Skeleton"
+ },
+ {
+  "stt": 39,
+  "id": "bach_cot_epic",
+  "gid": "bach_cot",
+  "rarity": "epic",
+  "rarity_vi": "Sử thi",
+  "vi": "Bạch Cốt Phu Nhân",
+  "en": "Lady White Bone"
+ },
+ {
+  "stt": 40,
+  "id": "bach_cot_legendary",
+  "gid": "bach_cot",
+  "rarity": "legendary",
+  "rarity_vi": "Huyền thoại",
+  "vi": "Khô Lâu Ma Vương",
+  "en": "Skeleton Demon King"
+ },
+ {
+  "stt": 41,
+  "id": "son_tieu_common",
+  "gid": "son_tieu",
+  "rarity": "common",
+  "rarity_vi": "Phổ thông",
+  "vi": "Sơn Tiêu Một Chân",
+  "en": "One-Legged Shanxiao"
+ },
+ {
+  "stt": 42,
+  "id": "son_tieu_rare",
+  "gid": "son_tieu",
+  "rarity": "rare",
+  "rarity_vi": "Hiếm",
+  "vi": "Sơn Quỷ Nhảy Xa",
+  "en": "Leaping Mountain Ogre"
+ },
+ {
+  "stt": 43,
+  "id": "son_tieu_epic",
+  "gid": "son_tieu",
+  "rarity": "epic",
+  "rarity_vi": "Sử thi",
+  "vi": "Lão Sơn Tinh",
+  "en": "Old Mountain Spirit"
+ },
+ {
+  "stt": 44,
+  "id": "son_tieu_legendary",
+  "gid": "son_tieu",
+  "rarity": "legendary",
+  "rarity_vi": "Huyền thoại",
+  "vi": "Sơn Thần Hắc Diện",
+  "en": "Black-Faced Mountain God"
+ },
+ {
+  "stt": 45,
+  "id": "thuy_quai_common",
+  "gid": "thuy_quai",
+  "rarity": "common",
+  "rarity_vi": "Phổ thông",
+  "vi": "Thủy Quái Rình Mồi",
+  "en": "Lurking Tide Beast"
+ },
+ {
+  "stt": 46,
+  "id": "thuy_quai_rare",
+  "gid": "thuy_quai",
+  "rarity": "rare",
+  "rarity_vi": "Hiếm",
+  "vi": "Giao Long Nước Đục",
+  "en": "Murk Dragon"
+ },
+ {
+  "stt": 47,
+  "id": "thuy_quai_epic",
+  "gid": "thuy_quai",
+  "rarity": "epic",
+  "rarity_vi": "Sử thi",
+  "vi": "Hắc Thủy Yêu Vương",
+  "en": "Blackwater Fiend King"
+ },
+ {
+  "stt": 48,
+  "id": "thuy_quai_legendary",
+  "gid": "thuy_quai",
+  "rarity": "legendary",
+  "rarity_vi": "Huyền thoại",
+  "vi": "Hải Ma Vô Đáy",
+  "en": "Bottomless Sea Demon"
+ },
+ {
+  "stt": 49,
+  "id": "tinh_cay_common",
+  "gid": "tinh_cay",
+  "rarity": "common",
+  "rarity_vi": "Phổ thông",
+  "vi": "Tinh Cây Cổ Thụ",
+  "en": "Ancient Tree Wight"
+ },
+ {
+  "stt": 50,
+  "id": "tinh_cay_rare",
+  "gid": "tinh_cay",
+  "rarity": "rare",
+  "rarity_vi": "Hiếm",
+  "vi": "Mộc Linh Ngàn Năm",
+  "en": "Millennium Wood Spirit"
+ },
+ {
+  "stt": 51,
+  "id": "tinh_cay_epic",
+  "gid": "tinh_cay",
+  "rarity": "epic",
+  "rarity_vi": "Sử thi",
+  "vi": "Đại Thụ Yêu",
+  "en": "Great Tree Demon"
+ },
+ {
+  "stt": 52,
+  "id": "tinh_cay_legendary",
+  "gid": "tinh_cay",
+  "rarity": "legendary",
+  "rarity_vi": "Huyền thoại",
+  "vi": "Thần Mộc Cửu Thiên",
+  "en": "Nine-Heaven Tree God"
+ },
+ {
+  "stt": 53,
+  "id": "nguu_dau_common",
+  "gid": "nguu_dau",
+  "rarity": "common",
+  "rarity_vi": "Phổ thông",
+  "vi": "Ngưu Đầu Ngục Tốt",
+  "en": "Ox-Head Jailer"
+ },
+ {
+  "stt": 54,
+  "id": "nguu_dau_rare",
+  "gid": "nguu_dau",
+  "rarity": "rare",
+  "rarity_vi": "Hiếm",
+  "vi": "Ngưu Đầu Dẫn Hồn",
+  "en": "Ox-Head Soul Guide"
+ },
+ {
+  "stt": 55,
+  "id": "nguu_dau_epic",
+  "gid": "nguu_dau",
+  "rarity": "epic",
+  "rarity_vi": "Sử thi",
+  "vi": "Ngưu Ma Chiến Sĩ",
+  "en": "Ox Demon Warrior"
+ },
+ {
+  "stt": 56,
+  "id": "nguu_dau_legendary",
+  "gid": "nguu_dau",
+  "rarity": "legendary",
+  "rarity_vi": "Huyền thoại",
+  "vi": "Ngưu Ma Vương",
+  "en": "Ox Demon King"
+ },
+ {
+  "stt": 57,
+  "id": "ma_dien_common",
+  "gid": "ma_dien",
+  "rarity": "common",
+  "rarity_vi": "Phổ thông",
+  "vi": "Mã Diện Ngục Tốt",
+  "en": "Horse-Face Jailer"
+ },
+ {
+  "stt": 58,
+  "id": "ma_dien_rare",
+  "gid": "ma_dien",
+  "rarity": "rare",
+  "rarity_vi": "Hiếm",
+  "vi": "Mã Diện Truy Hồn",
+  "en": "Horse-Face Soul Hunter"
+ },
+ {
+  "stt": 59,
+  "id": "ma_dien_epic",
+  "gid": "ma_dien",
+  "rarity": "epic",
+  "rarity_vi": "Sử thi",
+  "vi": "Mã Diện Tướng Quân",
+  "en": "Horse-Face General"
+ },
+ {
+  "stt": 60,
+  "id": "ma_dien_legendary",
+  "gid": "ma_dien",
+  "rarity": "legendary",
+  "rarity_vi": "Huyền thoại",
+  "vi": "Thiên Mã Quỷ Vương",
+  "en": "Celestial Steed Demon King"
+ },
+ {
+  "stt": 61,
+  "id": "tieu_yeu_common",
+  "gid": "tieu_yeu",
+  "rarity": "common",
+  "rarity_vi": "Phổ thông",
+  "vi": "Tiểu Yêu Tinh Nghịch",
+  "en": "Mischief Imp"
+ },
+ {
+  "stt": 62,
+  "id": "tieu_yeu_rare",
+  "gid": "tieu_yeu",
+  "rarity": "rare",
+  "rarity_vi": "Hiếm",
+  "vi": "Ranh Ma Phá Phách",
+  "en": "Havoc Sprite"
+ },
+ {
+  "stt": 63,
+  "id": "tieu_yeu_epic",
+  "gid": "tieu_yeu",
+  "rarity": "epic",
+  "rarity_vi": "Sử thi",
+  "vi": "Tiểu Ma Đầu Sỏ",
+  "en": "Imp Ringleader"
+ },
+ {
+  "stt": 64,
+  "id": "tieu_yeu_legendary",
+  "gid": "tieu_yeu",
+  "rarity": "legendary",
+  "rarity_vi": "Huyền thoại",
+  "vi": "Tổ Yêu Nghịch Thiên",
+  "en": "Heaven-Defying Imp Progenitor"
+ },
+ {
+  "stt": 65,
+  "id": "bong_ma_common",
+  "gid": "bong_ma",
+  "rarity": "common",
+  "rarity_vi": "Phổ thông",
+  "vi": "Bóng Ma Vất Vưởng",
+  "en": "Drifting Shade"
+ },
+ {
+  "stt": 66,
+  "id": "bong_ma_rare",
+  "gid": "bong_ma",
+  "rarity": "rare",
+  "rarity_vi": "Hiếm",
+  "vi": "Du Hồn Không Nhà",
+  "en": "Homeless Wanderer Soul"
+ },
+ {
+  "stt": 67,
+  "id": "bong_ma_epic",
+  "gid": "bong_ma",
+  "rarity": "epic",
+  "rarity_vi": "Sử thi",
+  "vi": "Oán Hồn Lang Thang",
+  "en": "Roaming Grudge Spirit"
+ },
+ {
+  "stt": 68,
+  "id": "bong_ma_legendary",
+  "gid": "bong_ma",
+  "rarity": "legendary",
+  "rarity_vi": "Huyền thoại",
+  "vi": "U Minh Quỷ Đế",
+  "en": "Netherworld Ghost Emperor"
+ },
+ {
+  "stt": 69,
+  "id": "ma_guong_common",
+  "gid": "ma_guong",
+  "rarity": "common",
+  "rarity_vi": "Phổ thông",
+  "vi": "Ma Trong Gương",
+  "en": "Ghost in the Mirror"
+ },
+ {
+  "stt": 70,
+  "id": "ma_guong_rare",
+  "gid": "ma_guong",
+  "rarity": "rare",
+  "rarity_vi": "Hiếm",
+  "vi": "Kính Ma Phản Chiếu",
+  "en": "Reflecting Mirror Wraith"
+ },
+ {
+  "stt": 71,
+  "id": "ma_guong_epic",
+  "gid": "ma_guong",
+  "rarity": "epic",
+  "rarity_vi": "Sử thi",
+  "vi": "Gương Yêu Đoạt Hồn",
+  "en": "Soul-Stealing Mirror Fiend"
+ },
+ {
+  "stt": 72,
+  "id": "ma_guong_legendary",
+  "gid": "ma_guong",
+  "rarity": "legendary",
+  "rarity_vi": "Huyền thoại",
+  "vi": "Huyền Kính Ma Vương",
+  "en": "Arcane Mirror Demon King"
+ },
+ {
+  "stt": 73,
+  "id": "nhap_trang_common",
+  "gid": "nhap_trang",
+  "rarity": "common",
+  "rarity_vi": "Phổ thông",
+  "vi": "Xác Sống Nhập Tràng",
+  "en": "Reanimated Corpse"
+ },
+ {
+  "stt": 74,
+  "id": "nhap_trang_rare",
+  "gid": "nhap_trang",
+  "rarity": "rare",
+  "rarity_vi": "Hiếm",
+  "vi": "Thi Ma Hoang Dã",
+  "en": "Feral Corpse Demon"
+ },
+ {
+  "stt": 75,
+  "id": "nhap_trang_epic",
+  "gid": "nhap_trang",
+  "rarity": "epic",
+  "rarity_vi": "Sử thi",
+  "vi": "Cương Thi Hoang",
+  "en": "Wild Rigor Fiend"
+ },
+ {
+  "stt": 76,
+  "id": "nhap_trang_legendary",
+  "gid": "nhap_trang",
+  "rarity": "legendary",
+  "rarity_vi": "Huyền thoại",
+  "vi": "Thi Vương Bất Diệt",
+  "en": "Undying Corpse King"
+ },
+ {
+  "stt": 77,
+  "id": "tinh_da_common",
+  "gid": "tinh_da",
+  "rarity": "common",
+  "rarity_vi": "Phổ thông",
+  "vi": "Tinh Đá Núi",
+  "en": "Mountain Stone Sprite"
+ },
+ {
+  "stt": 78,
+  "id": "tinh_da_rare",
+  "gid": "tinh_da",
+  "rarity": "rare",
+  "rarity_vi": "Hiếm",
+  "vi": "Thạch Linh Trầm Mặc",
+  "en": "Silent Stone Spirit"
+ },
+ {
+  "stt": 79,
+  "id": "tinh_da_epic",
+  "gid": "tinh_da",
+  "rarity": "epic",
+  "rarity_vi": "Sử thi",
+  "vi": "Nham Thạch Cự Ma",
+  "en": "Magma Rock Ogre"
+ },
+ {
+  "stt": 80,
+  "id": "tinh_da_legendary",
+  "gid": "tinh_da",
+  "rarity": "legendary",
+  "rarity_vi": "Huyền thoại",
+  "vi": "Thái Sơn Thạch Vương",
+  "en": "Mount Tai Stone King"
+ },
+ {
+  "stt": 81,
+  "id": "hoa_yeu_common",
+  "gid": "hoa_yeu",
+  "rarity": "common",
+  "rarity_vi": "Phổ thông",
+  "vi": "Hoa Yêu Dụ Hoặc",
+  "en": "Alluring Flower Wraith"
+ },
+ {
+  "stt": 82,
+  "id": "hoa_yeu_rare",
+  "gid": "hoa_yeu",
+  "rarity": "rare",
+  "rarity_vi": "Hiếm",
+  "vi": "Mỹ Nhân Hoa Độc",
+  "en": "Venom Petal Beauty"
+ },
+ {
+  "stt": 83,
+  "id": "hoa_yeu_epic",
+  "gid": "hoa_yeu",
+  "rarity": "epic",
+  "rarity_vi": "Sử thi",
+  "vi": "Hoa Ma Ngàn Cánh",
+  "en": "Thousand-Petal Flower Demon"
+ },
+ {
+  "stt": 84,
+  "id": "hoa_yeu_legendary",
+  "gid": "hoa_yeu",
+  "rarity": "legendary",
+  "rarity_vi": "Huyền thoại",
+  "vi": "Mẫu Đơn Yêu Hậu",
+  "en": "Peony Demoness Queen"
+ },
+ {
+  "stt": 85,
+  "id": "co_hon_common",
+  "gid": "co_hon",
+  "rarity": "common",
+  "rarity_vi": "Phổ thông",
+  "vi": "Cô Hồn Dã Quỷ",
+  "en": "Lonely Wandering Ghost"
+ },
+ {
+  "stt": 86,
+  "id": "co_hon_rare",
+  "gid": "co_hon",
+  "rarity": "rare",
+  "rarity_vi": "Hiếm",
+  "vi": "Dã Quỷ Không Nơi Nương Tựa",
+  "en": "Shelterless Wild Spirit"
+ },
+ {
+  "stt": 87,
+  "id": "co_hon_epic",
+  "gid": "co_hon",
+  "rarity": "epic",
+  "rarity_vi": "Sử thi",
+  "vi": "Bách Quỷ Dạ Hành",
+  "en": "Night Parade of One Hundred Demons"
+ },
+ {
+  "stt": 88,
+  "id": "co_hon_legendary",
+  "gid": "co_hon",
+  "rarity": "legendary",
+  "rarity_vi": "Huyền thoại",
+  "vi": "Quỷ Vương Cô Hồn",
+  "en": "Lonely Ghost King"
+ },
+ {
+  "stt": 89,
+  "id": "ma_khoi_common",
+  "gid": "ma_khoi",
+  "rarity": "common",
+  "rarity_vi": "Phổ thông",
+  "vi": "Ma Khói Hương Tàn",
+  "en": "Dying-Incense Smoke"
+ },
+ {
+  "stt": 90,
+  "id": "ma_khoi_rare",
+  "gid": "ma_khoi",
+  "rarity": "rare",
+  "rarity_vi": "Hiếm",
+  "vi": "Vô Hình Yên Ma",
+  "en": "Formless Soot Phantom"
+ },
+ {
+  "stt": 91,
+  "id": "ma_khoi_epic",
+  "gid": "ma_khoi",
+  "rarity": "epic",
+  "rarity_vi": "Sử thi",
+  "vi": "Hắc Yên Quỷ",
+  "en": "Black Smoke Demon"
+ },
+ {
+  "stt": 92,
+  "id": "ma_khoi_legendary",
+  "gid": "ma_khoi",
+  "rarity": "legendary",
+  "rarity_vi": "Huyền thoại",
+  "vi": "Vô Gian Yên Vương",
+  "en": "Avici Smoke King"
+ },
+ {
+  "stt": 93,
+  "id": "da_xoa_common",
+  "gid": "da_xoa",
+  "rarity": "common",
+  "rarity_vi": "Phổ thông",
+  "vi": "Dạ Xoa Tuần Tra",
+  "en": "Patrolling Yaksha"
+ },
+ {
+  "stt": 94,
+  "id": "da_xoa_rare",
+  "gid": "da_xoa",
+  "rarity": "rare",
+  "rarity_vi": "Hiếm",
+  "vi": "Dạ Xoa Hộ Pháp",
+  "en": "Dharma-Guard Yaksha"
+ },
+ {
+  "stt": 95,
+  "id": "da_xoa_epic",
+  "gid": "da_xoa",
+  "rarity": "epic",
+  "rarity_vi": "Sử thi",
+  "vi": "Kim Cang Dạ Xoa",
+  "en": "Vajra Yaksha"
+ },
+ {
+  "stt": 96,
+  "id": "da_xoa_legendary",
+  "gid": "da_xoa",
+  "rarity": "legendary",
+  "rarity_vi": "Huyền thoại",
+  "vi": "Đại Dạ Xoa Vương",
+  "en": "Grand Yaksha King"
+ },
+ {
+  "stt": 97,
+  "id": "ma_den_common",
+  "gid": "ma_den",
+  "rarity": "common",
+  "rarity_vi": "Phổ thông",
+  "vi": "Ma Đèn Lồng Dẫn Lối",
+  "en": "Lantern-Lighting Guide"
+ },
+ {
+  "stt": 98,
+  "id": "ma_den_rare",
+  "gid": "ma_den",
+  "rarity": "rare",
+  "rarity_vi": "Hiếm",
+  "vi": "Hồn Đèn Ma Trơi",
+  "en": "Will-o'-Wisp Soul"
+ },
+ {
+  "stt": 99,
+  "id": "ma_den_epic",
+  "gid": "ma_den",
+  "rarity": "epic",
+  "rarity_vi": "Sử thi",
+  "vi": "U Linh Đăng Hỏa",
+  "en": "Spectral Lampflame"
+ },
+ {
+  "stt": 100,
+  "id": "ma_den_legendary",
+  "gid": "ma_den",
+  "rarity": "legendary",
+  "rarity_vi": "Huyền thoại",
+  "vi": "Vạn Đăng Quỷ Vương",
+  "en": "King of Ten Thousand Lanterns"
+ },
+ {
+  "stt": 101,
+  "id": "oan_linh_common",
+  "gid": "oan_linh",
+  "rarity": "common",
+  "rarity_vi": "Phổ thông",
+  "vi": "Oán Linh Tử Sĩ",
+  "en": "Fallen Soldier's Grudge"
+ },
+ {
+  "stt": 102,
+  "id": "oan_linh_rare",
+  "gid": "oan_linh",
+  "rarity": "rare",
+  "rarity_vi": "Hiếm",
+  "vi": "Chiến Hồn Bất Khuất",
+  "en": "Unyielding War Soul"
+ },
+ {
+  "stt": 103,
+  "id": "oan_linh_epic",
+  "gid": "oan_linh",
+  "rarity": "epic",
+  "rarity_vi": "Sử thi",
+  "vi": "Huyết Chiến Quỷ Tướng",
+  "en": "Bloodbattle Demon General"
+ },
+ {
+  "stt": 104,
+  "id": "oan_linh_legendary",
+  "gid": "oan_linh",
+  "rarity": "legendary",
+  "rarity_vi": "Huyền thoại",
+  "vi": "Tu La Chiến Vương",
+  "en": "Asura War King"
+ },
+ {
+  "stt": 105,
+  "id": "mi_anh_common",
+  "gid": "mi_anh",
+  "rarity": "common",
+  "rarity_vi": "Phổ thông",
+  "vi": "Mị Ảnh Sương Mờ",
+  "en": "Hazy Mist Apparition"
+ },
+ {
+  "stt": 106,
+  "id": "mi_anh_rare",
+  "gid": "mi_anh",
+  "rarity": "rare",
+  "rarity_vi": "Hiếm",
+  "vi": "Vụ Ẩn Yêu",
+  "en": "Foghidden Enchanter"
+ },
+ {
+  "stt": 107,
+  "id": "mi_anh_epic",
+  "gid": "mi_anh",
+  "rarity": "epic",
+  "rarity_vi": "Sử thi",
+  "vi": "Mê Vụ Ma Nữ",
+  "en": "Beguiling Mist Maiden"
+ },
+ {
+  "stt": 108,
+  "id": "mi_anh_legendary",
+  "gid": "mi_anh",
+  "rarity": "legendary",
+  "rarity_vi": "Huyền thoại",
+  "vi": "Cửu U Vụ Hậu",
+  "en": "Mist Queen of the Nine Hells"
+ }
+]
